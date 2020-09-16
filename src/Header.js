@@ -1,5 +1,5 @@
 import React from 'react';
-import amazon from './images/Amazon-Logo.png'
+import amazon from './images/logo_-1.jpg'
 import './Header.css';
 import {Link} from 'react-router-dom';
 import SearchIcon from '@material-ui/icons/Search';
